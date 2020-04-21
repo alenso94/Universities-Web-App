@@ -1,0 +1,823 @@
+id,domains,country,web_pages/0,name,alpha_two_code
+1,uquebec.ca,Canada,http://www.uquebec.ca/,University of Québec,CA
+2,uq.edu.au,Australia,http://www.uq.edu.au/,University of Queensland,AU
+3,qu.edu.qa,Qatar,http://www.qu.edu.qa/,University of Qatar,QA
+4,udom.ac.tz,"Tanzania, United Republic of",http://www.udom.ac.tz/,University of Dodoma,TZ
+5,uod.ac,Iraq,http://www.uod.ac/,University of Dohuk (Kurdistan Region),IQ
+6,uofd.edu.sd,Sudan,http://www.uofd.edu.sd/,University of Dongola,SD
+7,unideb.hu,Hungary,http://www.unideb.hu/,University of Debrecen,HU
+8,uoda.edu.bd,Bangladesh,http://www.uoda.edu.bd/,University of Development Alternative,BD
+9,du.ac.in,India,http://www.du.ac.in/,University of Delhi,IN
+10,udel.edu,United States,http://www.udel.edu/,University of Delaware,US
+11,derby.ac.uk,United Kingdom,http://www.derby.ac.uk/,University of Derby,GB
+12,du.edu,United States,http://www.du.edu/,University of Denver,US
+13,udmercy.edu,United States,http://www.udmercy.edu/,University of Detroit Mercy,US
+14,dbq.edu,United States,http://www.dbq.edu/,University of Dubuque,US
+15,tcd.ie,Ireland,http://www.tcd.ie/,"University of Dublin, Trinity College",IE
+16,unidu.hr,Croatia,http://www.unidu.hr/,University of Dubrovnik,HR
+17,ud.ac.ae,United Arab Emirates,http://www.ud.ac.ae/,University Of Dubai,AE
+18,dur.ac.uk,United Kingdom,http://www.dur.ac.uk/,University of Durham,GB
+19,dundee.ac.uk,United Kingdom,http://www.dundee.ac.uk/,University of Dundee,GB
+20,du.ac.bd,Bangladesh,http://www.du.ac.bd/,University of Dhaka,BD
+21,udallas.edu,United States,http://www.udallas.edu/,University of Dallas,US
+22,udayton.edu,United States,http://www.udayton.edu/,University of Dayton,US
+23,dlu.edu.vn,Viet Nam,http://www.dlu.edu.vn/,University of Da Lat,VN
+24,ud.edu.vn,Viet Nam,http://www.ud.edu.vn/,University of Da Nang,VN
+25,udsm.ac.tz,"Tanzania, United Republic of",http://www.udsm.ac.tz/,University of Dar Es Salaam,TZ
+26,ud.edu.sa,Saudi Arabia,http://www.ud.edu.sa/,University of Dammam,SA
+27,univr.it,Italy,http://www.univr.it/,University of Verona,IT
+28,uvm.edu,United States,http://www.uvm.edu/,University of Vermont,US
+29,univen.ac.za,South Africa,http://www.univen.ac.za/,University of Venda,ZA
+30,unive.it,Italy,http://www.unive.it/,University of Venice,IT
+31,uvas.edu.pk,Pakistan,http://www.uvas.edu.pk/,University of Veterinary & Animal Science,PK
+32,uvm.sk,Slovakia,http://www.uvm.sk/,University of Veterinary Medicine in Kosice,SK
+33,univet.hu,Hungary,http://www.univet.hu/,University of Veterinary Science,HU
+34,vfu.cz,Czech Republic,http://www.vfu.cz/,University of Veterinary and Pharmaceutical Science,CZ
+35,uwasa.fi,Finland,http://www.uwasa.fi/,University of Vaasa,FI
+36,univlora.edu.al,Albania,http://www.univlora.edu.al/,"University of Vlora ""Ismail Qemali""",AL
+37,virginia.edu,United States,http://www.virginia.edu/,"University of Virginia, Charlottesville",US
+38,uvic.ca,Canada,http://www.uvic.ca/,University of Victoria,CA
+39,ucy.ac.cy,Cyprus,http://www.ucy.ac.cy/,University of Cyprus,CY
+40,chester.ac.uk,United Kingdom,http://www.chester.ac.uk/,University of Chester,GB
+41,uctm.edu,Bulgaria,http://www.uctm.edu/,University of Chemical Technology and Metallurgy,BG
+42,unich.it,Italy,http://www.unich.it/,University of Chieti,IT
+43,uchicago.edu,United States,http://www.uchicago.edu/,University of Chicago,US
+44,cu.ac.bd,Bangladesh,http://www.cu.ac.bd/,University of Chittagong,BD
+45,uchaswv.edu,United States,http://www.uchaswv.edu/,University of Charleston,US
+46,unica.it,Italy,http://www.unica.it/,University of Cagliari,IT
+47,ucv.edu.ph,Philippines,http://www.ucv.edu.ph/,University of Cagayan Valley,PH
+48,ucalgary.ca,Canada,http://www.ucalgary.ca/,University of Calgary,CA
+49,unical.it,Italy,http://www.unical.it/,University of Calabria,IT
+50,unical.edu.ng,Nigeria,http://www.unical.edu.ng/,University of Calabar,NG
+51,caluniv.ac.in,India,http://www.caluniv.ac.in/,University of Calcutta,IN
+52,ucdavis.edu,United States,http://www.ucdavis.edu/,"University of California, Davis",US
+53,berkeley.edu,United States,http://www.berkeley.edu/,"University of California, Berkeley",US
+54,ucla.edu,United States,http://www.ucla.edu/,"University of California, Los Angeles",US
+55,ucmerced.edu,United States,http://www.ucmerced.edu/,"University of California, Merced",US
+56,uci.edu,United States,http://www.uci.edu/,"University of California, Irvine",US
+57,ucr.edu,United States,http://www.ucr.edu/,"University of California, Riverside",US
+58,ucsd.edu,United States,http://www.ucsd.edu/,"University of California, San Diego",US
+59,ucsf.edu,United States,http://www.ucsf.edu/,"University of California, San Francisco",US
+60,ucsb.edu,United States,http://www.ucsb.edu/,"University of California, Santa Barbara",US
+61,ucsc.edu,United States,http://www.ucsc.edu/,"University of California, Santa Cruz",US
+62,unical.ac.in,India,http://unical.ac.in/,University of Calicut,IN
+63,unict.it,Italy,http://www.unict.it/,University of Catania,IT
+64,unicam.it,Italy,http://www.unicam.it/,University of Camerino,IT
+65,uc.edu.kh,Cambodia,http://www.uc.edu.kh/,University of Cambodia,KH
+66,cam.ac.uk,United Kingdom,http://www.cam.ac.uk/,University of Cambridge,GB
+67,ucc.edu.gh,Ghana,http://www.ucc.edu.gh/,University of Cape Coast,GH
+68,uct.ac.za,South Africa,http://www.uct.ac.za/,University of Cape Town,ZA
+69,canberra.edu.au,Australia,http://www.canberra.edu.au/,University of Canberra,AU
+70,canterbury.ac.nz,New Zealand,http://www.canterbury.ac.nz/,University of Canterbury,NZ
+71,unicas.it,Italy,http://www.unicas.it/,University of Cassino,IT
+72,hsc.colorado.edu,United States,http://www.hsc.colorado.edu/,University of Colorado Health Sciences Center,US
+73,cudenver.edu,United States,http://www.cudenver.edu/,University of Colorado at Denver,US
+74,colorado.edu,United States,http://www.colorado.edu/,University of Colorado at Boulder,US
+75,uccs.edu,United States,http://www.uccs.edu/,University of Colorado at Colorado Springs,US
+76,cmb.ac.lk,Sri Lanka,http://www.cmb.ac.lk/,University of Colombo,LK
+77,univ-ovidius.ro,Romania,http://www.univ-ovidius.ro/,University of Constanta,RO
+78,ovidunivconstanta-edu.org,Romania,http://www.ovidunivconstanta-edu.org/,University of Constanta Medical School,RO
+79,uconn.edu,United States,http://www.uconn.edu/,University of Connecticut,US
+80,ucsy.edu.mm,Myanmar,http://www.ucsy.edu.mm/,"University of Computer Studies, Yangon",MM
+81,universityofcebu.edu.ph,Philippines,http://www.universityofcebu.edu.ph/,University of Cebu,PH
+82,ucg.gr,Greece,http://www.ucg.gr/,University of Central Greece,GR
+83,uclan.ac.uk,United Kingdom,http://www.uclan.ac.uk/,University of Central Lancashire,GB
+84,uca.edu,United States,http://www.uca.edu/,University of Central Arkansas,US
+85,uco.edu,United States,http://www.uco.edu/,University of Central Oklahoma,US
+86,sevs.sk,Slovakia,http://www.sevs.sk/,University of Central Europe in Skalica,SK
+87,ucf.edu,United States,http://www.ucf.edu/,University of Central Florida,US
+88,ucp.edu.pk,Pakistan,http://www.ucp.edu.pk/,University of Central Punjab,PK
+89,ucmo.edu,United States,http://www.ucmo.edu/,University of Central Missouri,US
+90,uoc.gr,Greece,http://www.uoc.gr/,University of Crete,GR
+91,central.ucv.ro,Romania,http://www.central.ucv.ro/,University of Craiova,RO
+92,uc.edu,United States,http://www.uc.edu/,University of Cincinnati,US
+93,york.ac.uk,United Kingdom,http://www.york.ac.uk/,University of York,GB
+94,unimkar.edu.ng,Nigeria,http://www.unimkar.edu.ng/,University of Mkar,NG
+95,uni-mysore.ac.in,India,http://www.uni-mysore.ac.in/,University of Mysore,IN
+96,uomustansiriyah.edu.iq,Iraq,http://www.uomustansiriyah.edu.iq/,University of Mustansiriyah,IQ
+97,iksvv.com,India,http://www.iksvv.com/,University of Music and Fine Arts,IN
+98,umi.edu.pk,Pakistan,http://www.umi.edu.pk/,University of Munawwar-ul-Islam,PK
+99,mu.ac.in,India,http://www.mu.ac.in/,University of Mumbai,IN
+100,unom.ac.in,India,http://www.unom.ac.in/,University of Madras,IN
+101,uom.ac.mu,Mauritius,http://www.uom.ac.mu/,University of Mauritius,MU
+102,um.edu.mt,Malta,http://www.um.edu.mt/,University of Malta,MT
+103,uom.edu.pk,Pakistan,http://www.uom.edu.pk/,University of Malakand,PK
+104,unima.mw,Malawi,http://www.unima.mw/,University of Malawi,MW
+105,uom.gr,Greece,http://www.uom.gr/,University of Macedonia,GR
+106,unimc.it,Italy,http://www.unimc.it/,University of Macerata,IT
+107,umac.mo,Macao,http://www.umac.mo/,University of Macau,MO
+108,unimaid.edu.ng,Nigeria,http://www.unimaid.edu.ng/,University of Maiduguri,NG
+109,umaine.edu,United States,http://www.umaine.edu/,University of Maine,US
+110,maine.edu,United States,http://www.maine.edu/,University of Maine System,US
+111,umfk.maine.edu,United States,http://www.umfk.maine.edu/,University of Maine at Fort Kent,US
+112,umf.maine.edu,United States,http://www.umf.maine.edu/,University of Maine at Farmington,US
+113,umpi.maine.edu,United States,http://www.umpi.maine.edu/,University of Maine at Presque Island,US
+114,umm.maine.edu,United States,http://www.umm.maine.edu/,University of Maine at Machias,US
+115,umds.ac.jp,Japan,http://www.umds.ac.jp/,University of Marketing and Distribution Sciences,JP
+116,umw.edu,United States,https://www.umw.edu/,University of Mary Washington,US
+117,umaryland.edu,United States,http://www.umaryland.edu/,"University of Maryland, Baltimore",US
+118,umbc.edu,United States,http://www.umbc.edu/,"University of Maryland, Baltimore County",US
+119,umd.edu,United States,http://www.umd.edu/,"University of Maryland, College Park",US
+120,umes.edu,United States,http://www.umes.edu/,University of Maryland Eastern Shore,US
+121,umuc.edu,United States,http://www.umuc.edu/,University of Maryland - University College,US
+122,um.si,Slovenia,http://www.um.si/,University of Maribor,SI
+123,wszim.edu.pl,Poland,http://www.wszim.edu.pl/,University of Management and Marketing,PL
+124,umt.edu.pk,Pakistan,http://www.umt.edu.pk/,University of Management and Technology,PK
+125,manchester.ac.uk,United Kingdom,http://www.manchester.ac.uk/,University of Manchester,GB
+126,univman.edu.ph,Philippines,http://www.univman.edu.ph/,University of Manila,PH
+127,umanitoba.ca,Canada,http://www.umanitoba.ca/,University of Manitoba,CA
+128,pnum.ac.ir,Iran,http://www.pnum.ac.ir/,University of Mashhad Pnu,IR
+129,umb.edu,United States,https://www.umb.edu/,University of Massachusetts Boston,US
+130,umassd.edu,United States,http://www.umassd.edu/,University of Massachusetts at Dartmouth,US
+131,uml.edu,United States,http://www.uml.edu/,University of Massachusetts at Lowell,US
+132,umass.edu,United States,http://www.umass.edu/,University of Massachusetts at Amherst,US
+133,casa.unimo.it,Italy,http://www.casa.unimo.it/,University of Modena,IT
+134,unimol.it,Italy,http://www.unimol.it/,University of Molise,IT
+135,uma.ac.ir,Iran,http://www.uma.ac.ir/,University of Mohaghegh,IR
+136,uomosul.edu.iq,Iraq,http://www.uomosul.edu.iq/,University of Mosul,IQ
+137,sve-mo.ba,Bosnia and Herzegovina,http://www.sve-mo.ba/,University of Mostar,BA
+138,umoncton.ca,Canada,http://www.umoncton.ca/,University of Moncton,CA
+139,cuslm.ca,Canada,http://www.cuslm.ca/,"University of Moncton, Edmundston",CA
+140,cus.ca,Canada,http://www.cus.ca/,"University of Moncton, Shippagan",CA
+141,ucg.cg.ac.yu,Montenegro,http://www.ucg.cg.ac.yu/,University of Montenegro,ME
+142,umt.edu,United States,http://www.umt.edu/,University of Montana,US
+143,mrt.ac.lk,Sri Lanka,http://www.mrt.ac.lk/,University of Moratuwa,LK
+144,umst-edu.com,Sudan,http://www.umst-edu.com/,University Of Medical Sciences & Technology (UMST),SD
+145,um1ygn.edu.mm,Myanmar,http://www.um1ygn.edu.mm/,"University of Medicine 1, Yangon",MM
+146,ummg.edu.mm,Myanmar,http://www.ummg.edu.mm/,University of Medicine Magway,MM
+147,oradeauniversity.com,Romania,http://www.oradeauniversity.com/,University of Medicine and Pharmacology of Oradea,RO
+148,univermed-cdgm.ro,Romania,http://www.univermed-cdgm.ro/,University of Medicine and Pharmacy of Bucharest,RO
+149,umfiasi.ro,Romania,http://www.umfiasi.ro/,University of Medicine and Pharmacy of Iasi,RO
+150,umfcluj.ro,Romania,http://www.umfcluj.ro/,University of Medicine and Pharmacy of Cluj-Napoca,RO
+151,umftgm.ro,Romania,http://www.umftgm.ro/,University of Medicine and Pharmacy of Targu Mures,RO
+152,umft.ro,Romania,http://www.umft.ro/,University of Medicine and Pharmacy of Timisoara,RO
+153,uma.ac.in,India,http://www.uma.ac.in/,University of Media Arts,IN
+154,unimelb.edu.au,Australia,http://www.unimelb.edu.au/,University of Melbourne,AU
+155,unime.it,Italy,http://www.unime.it/,University of Messina,IT
+156,memphis.edu,United States,http://www.memphis.edu/,University of Memphis,US
+157,umindanao.edu.ph,Philippines,http://www.umindanao.edu.ph/,University of Mindanao,PH
+158,umn.edu,United States,http://www.umn.edu/,University of Minnesota,US
+159,d.umn.edu,United States,http://www.d.umn.edu/,University of Minnesota - Duluth,US
+160,mrs.umn.edu,United States,http://www.mrs.umn.edu/,University of Minnesota - Morris,US
+161,crk.umn.edu,United States,http://www.crk.umn.edu/,University of Minnesota - Crookston,US
+162,umn.edu,United States,http://twin-cities.umn.edu/,University of Minnesota - Twin Cities,US
+163,mgu.bg,Bulgaria,http://www.mgu.bg/,"University of Mining and Geology ""St. Ivan Rils""",BG
+164,unimi.it,Italy,http://www.unimi.it/,University of Milan,IT
+165,unimib.it,Italy,http://www.unimib.it/,University of Milan - Bicocca,IT
+166,uni-miskolc.hu,Hungary,http://www.uni-miskolc.hu/,University of Miskolc,HU
+167,umkc.edu,United States,http://www.umkc.edu/,University of Missouri - Kansas City,US
+168,umr.edu,United States,http://www.umr.edu/,University of Missouri - Rolla,US
+169,missouri.edu,United States,http://www.missouri.edu/,University of Missouri - Columbia,US
+170,umsl.edu,United States,http://www.umsl.edu/,University of Missouri - Saint Louis,US
+171,olemiss.edu,United States,http://www.olemiss.edu/,University of Mississippi,US
+172,umsmed.edu,United States,http://www.umsmed.edu/,University of Mississippi Medical Center,US
+173,umflint.edu,United States,http://www.umflint.edu,University of Michigan-Flint,US
+174,umdearborn.edu,United States,http://www.umdearborn.edu/,University of Michigan - Dearborn,US
+175,umich.edu,United States,http://www.umich.edu/,University of Michigan - Ann Arbor,US
+176,miami.edu,United States,http://welcome.miami.edu/,University of Miami,US
+177,uku.fi,Finland,http://www.uku.fi/,University of Kuopio,FI
+178,uokufa.edu.iq,Iraq,http://www.uokufa.edu.iq/,University of Kufa,IQ
+179,uok.ac.ir,Iran,http://www.uok.ac.ir/,University of Kurdistan,IR
+180,ukh.ac,Iraq,http://www.ukh.ac/,University of Kurdistan - Hawler,IQ
+181,uofk.edu,Sudan,http://www.uofk.edu/,University of Khartoum,SD
+182,ukzn.ac.za,South Africa,http://www.ukzn.ac.za/,University of KwaZulu-Natal,ZA
+183,kordofan.edu.sd,Sudan,http://www.kordofan.edu.sd/,University of Kordofan,SD
+184,unkorce.edu.al,Albania,http://www.unkorce.edu.al/,"University of Korca ""Fan Noli""",AL
+185,uok.ac.in,India,http://www.uok.ac.in/,University of Kota,IN
+186,kln.ac.lk,Sri Lanka,http://www.kln.ac.lk/,University of Kelaniya,LK
+187,keralauniversity.ac.in,India,http://www.keralauniversity.ac.in/,University of Kerala,IN
+188,uky.edu,United States,http://www.uky.edu/,University of Kentucky,US
+189,ukc.ac.uk,United Kingdom,http://www.ukc.ac.uk/,University of Kent at Canterbury,GB
+190,kabianga.ac.ke,Kenya,http://www.kabianga.ac.ke/,University of Kabianga,KE
+191,klyuniv.ac.in,India,http://www.klyuniv.ac.in/,University of Kalyani,IN
+192,uok.edu.sy,Syrian Arab Republic,http://www.uok.edu.sy/,University of Kalamoon,SY
+193,kashmiruniversity.net,India,http://kashmiruniversity.net/,University of Kashmir,IN
+194,ku.edu,United States,http://www.ku.edu,University of Kansas,US
+195,kumc.edu,United States,http://www.kumc.edu/,University of Kansas School of Medicine,US
+196,uok.edu.pk,Pakistan,http://www.uok.edu.pk/,University of Karachi,PK
+197,kg.ac.rs,Serbia,http://www.kg.ac.rs/,University of Kragujevac,RS
+198,uokirkuk.edu.iq,Iraq,http://www.uokirkuk.edu.iq/,University of Kirkuk,IQ
+199,ukings.ns.ca,Canada,http://www.ukings.ns.ca/,University of King's College,CA
+200,burdwanuniversity.ac.in,India,http://www.burdwanuniversity.ac.in/,University of Burdwan,IN
+201,buraouniversity.com,Somalia,http://www.buraouniversity.com/,University of Burao,SO
+202,buck.ac.uk,United Kingdom,http://www.buck.ac.uk/,University of Buckingham,GB
+203,unibuc.ro,Romania,http://www.unibuc.ro/,University of Bucharest,RO
+204,u-bunkyo.ac.jp,Japan,http://www.u-bunkyo.ac.jp/,University of Bunkyo,JP
+205,ubaguio.edu,Philippines,http://www.ubaguio.edu/,University of Baguio,PH
+206,uobaghdad.edu.iq,Iraq,http://www.uobaghdad.edu.iq/,University of Baghdad,IQ
+207,uob.edu.bh,Bahrain,http://www.uob.edu.bh/,University of Bahrain,BH
+208,ub.ro,Romania,http://www.ub.ro/,University of Bacau,RO
+209,uob.edu.pk,Pakistan,http://www.uob.edu.pk,University of Balochistan,PK
+210,ubalt.edu,United States,http://www.ubalt.edu/,University of Baltimore,US
+211,bath.ac.uk,United Kingdom,http://www.bath.ac.uk/,University of Bath,GB
+212,ub.edu.ph,Philippines,http://www.ub.edu.ph/,University of Batangas,PH
+213,unibas.ch,Switzerland,http://www.unibas.ch/,University of Basel,CH
+214,uobasrah.edu.iq,Iraq,http://www.uobasrah.edu.iq/,University of Basrah,IQ
+215,unibl.org,Bosnia and Herzegovina,http://www.unibl.org/,University of Banja Luka,BA
+216,uniba.it,Italy,http://www.uniba.it/,University of Bari,IT
+217,universityofbohol.com,Philippines,http://www.universityofbohol.com/,University of Bohol,PH
+218,unibo.it,Italy,http://www.unibo.it/,University of Bologna,IT
+219,bolton.ac.uk,United Kingdom,http://www.bolton.ac.uk/,University of Bolton,GB
+220,ub.bw,Botswana,http://www.ub.bw/,University of Botswana,BW
+221,beds.ac.uk,United Kingdom,http://www.beds.ac.uk/,University of Bedfordshire,GB
+222,bg.ac.rs,Serbia,http://www.bg.ac.rs/,University of Belgrade,RS
+223,ub.edu.bz,Belize,http://www.ub.edu.bz/,University of Belize,BZ
+224,uib.no,Norway,http://www.uib.no/,University of Bergen,NO
+225,unibg.it,Italy,http://www.unibg.it/,University of Bergamo,IT
+226,uob.edu.ly,Libya,http://www.uob.edu.ly/,University of Benghazi,LY
+227,uniben.edu,Nigeria,http://www.uniben.edu/,University of Benin,NG
+228,unibs.it,Italy,http://www.unibs.it/,University of Brescia,IT
+229,brad.ac.uk,United Kingdom,http://www.brad.ac.uk/,University of Bradford,GB
+230,ubd.edu.bn,Brunei Darussalam,http://www.ubd.edu.bn/,University of Brunei Darussalam,BN
+231,bton.ac.uk,United Kingdom,http://www.bton.ac.uk/,University of Brighton,GB
+232,bridgeport.edu,United States,http://www.bridgeport.edu/,University of Bridgeport,US
+233,bris.ac.uk,United Kingdom,http://www.bris.ac.uk/,University of Bristol,GB
+234,ubc.ca,Canada,http://www.ubc.ca/,University of British Columbia,CA
+235,unbi.ba,Bosnia and Herzegovina,http://www.unbi.ba/,University of Bihac,BA
+236,bham.ac.uk,United Kingdom,http://www.bham.ac.uk/,University of Birmingham,GB
+237,ub.edu.pl,Poland,http://www.ub.edu.pl/,University of Bialystok,PL
+238,joensuu.fi,Finland,http://www.joensuu.fi/,University of Joensuu,FI
+239,uj.ac.za,South Africa,http://www.uj.ac.za/,University of Johannesburg,ZA
+240,unijos.edu.ng,Nigeria,http://www.unijos.edu.ng/,University of Jos,NG
+241,ju.edu.jo,Jordan,http://www.ju.edu.jo/,University of Jordan,JO
+242,jyu.fi,Finland,http://www.jyu.fi/,University of Jyväskylä,FI
+243,ujn.edu.cn,China,http://www.ujn.edu.cn/,University of Jinan,CN
+244,juba.edu.sd,South Sudan,http://www.juba.edu.sd/,University of Juba,SS
+245,jfn.ac.lk,Sri Lanka,http://www.jfn.ac.lk/,University of Jaffna,LK
+246,ujep.cz,Czech Republic,http://www.ujep.cz/,University of Jan Evangelista Purkyne,CZ
+247,uojazeera.com,United Arab Emirates,http://www.uojazeera.com/,University of Jazeera,AE
+248,uj.edu,United States,http://www.uj.edu/,University of Jamestown,US
+249,jammuvarsity.org,India,http://www.jammuvarsity.org/,University of Jammu,IN
+250,uwyo.edu,United States,http://www.uwyo.edu/,University of Wyoming,US
+251,wales.ac.uk,United Kingdom,http://www.wales.ac.uk/,University of Wales,GB
+252,bangor.ac.uk,United Kingdom,http://www.bangor.ac.uk/,"University of Wales, Bangor",GB
+253,lamp.ac.uk,United Kingdom,http://www.lamp.ac.uk/,"University of Wales, Lampeter",GB
+254,swan.ac.uk,United Kingdom,http://www.swan.ac.uk/,"University of Wales, Swansea",GB
+255,newport.ac.uk,United Kingdom,http://www.newport.ac.uk/,"University of Wales, Newport",GB
+256,aber.ac.uk,United Kingdom,http://www.aber.ac.uk/,"University of Wales, Aberystwyth",GB
+257,uwcm.ac.uk,United Kingdom,http://www.uwcm.ac.uk/,University of Wales College of Medicine,GB
+258,uwic.ac.uk,United Kingdom,http://www.uwic.ac.uk/,"University of Wales Institute, Cardiff",GB
+259,uw.edu,United States,http://www.washington.edu/,University of Washington,US
+260,uowasit.edu.iq,Iraq,http://www.uowasit.edu.iq/,University of Wassit,IQ
+261,uw.edu.pk,Pakistan,http://www.uw.edu.pk/,University of Wah,PK
+262,uwaterloo.ca,Canada,http://www.uwaterloo.ca/,University of Waterloo,CA
+263,uwm.edu.pl,Poland,http://www.uwm.edu.pl/,University of Wamia and Masuria in Olsztyn,PL
+264,warwick.ac.uk,United Kingdom,http://www.warwick.ac.uk/,University of Warwick,GB
+265,uw.edu.pl,Poland,http://www.uw.edu.pl/,University of Warsaw,PL
+266,waikato.ac.nz,New Zealand,http://www.waikato.ac.nz/,University of Waikato,NZ
+267,wlv.ac.uk,United Kingdom,http://www.wlv.ac.uk/,University of Wolverhampton,GB
+268,uow.edu.au,Australia,http://www.uow.edu.au/,University of Wollongong,AU
+269,uowdubai.ac.ae,United Arab Emirates,http://www.uowdubai.ac.ae/,University of Wollongong - Dubai Campus,AE
+270,uwed.uz,Uzbekistan,http://www.uwed.uz/,University of World Economy and Diplomacy,UZ
+271,worc.ac.uk,United Kingdom,http://www.worc.ac.uk/,University of Worcester,GB
+272,uwo.ca,Canada,http://www.uwo.ca/,University of Western Ontario,CA
+273,uwa.edu.au,Australia,http://www.uwa.edu.au/,University of Western Australia,AU
+274,uws.edu.au,Australia,http://www.uws.edu.au/,University of Western Sydney,AU
+275,uowm.gr,Greece,http://www.uowm.gr/,University of Western Macedonia,GR
+276,uwf.edu,United States,http://www.uwf.edu/,University of West Florida,US
+277,nyme.hu,Hungary,http://www.nyme.hu/,University of West Hungary,HU
+278,zcu.cz,Czech Republic,http://www.zcu.cz/,University of West Bohemia,CZ
+279,westal.edu,United States,http://www.westal.edu/,University of West Alabama,US
+280,westminster.ac.uk,United Kingdom,http://www.westminster.ac.uk/,University of Westminster,GB
+281,uni.wroc.pl,Poland,http://www.uni.wroc.pl/,University of Wroclaw,PL
+282,uwgb.edu,United States,http://www.uwgb.edu/,University of Wisconsin - Green Bay,US
+283,uwlax.edu,United States,http://www.uwlax.edu/,University of Wisconsin - LaCrosse,US
+284,uwplatt.edu,United States,http://www.uwplatt.edu/,University of Wisconsin - Platteville,US
+285,uwp.edu,United States,http://www.uwp.edu/,University of Wisconsin - Parkside,US
+286,uwrf.edu,United States,http://www.uwrf.edu/,University of Wisconsin - River Falls,US
+287,uwosh.edu,United States,http://www.uwosh.edu/,University of Wisconsin - Oshkosh,US
+288,uwec.edu,United States,http://www.uwec.edu/,University of Wisconsin - Eau Claire,US
+289,uww.edu,United States,http://www.uww.edu/,University of Wisconsin - Whitewater,US
+290,uwsuper.edu,United States,http://www.uwsuper.edu/,University of Wisconsin - Superior,US
+291,uwstout.edu,United States,http://www.uwstout.edu/,University of Wisconsin - Stout,US
+292,uwsp.edu,United States,http://www.uwsp.edu/,University of Wisconsin - Stevens Point,US
+293,wisc.edu,United States,http://www.wisc.edu/,University of Wisconsin - Madison,US
+294,uwm.edu,United States,http://www.uwm.edu/,University of Wisconsin - Milwaukee,US
+295,uwsa.edu,United States,http://www.uwsa.edu/,University of Wisconsin System,US
+296,uwc.edu,United States,http://www.uwc.edu,University of Wisconsin Colleges,US
+297,uwindsor.ca,Canada,http://www.uwindsor.ca/,University of Windsor,CA
+298,uwinnipeg.ca,Canada,http://www.uwinnipeg.ca/,University of Winnipeg,CA
+299,wits.ac.za,South Africa,http://www.wits.ac.za/,University of Witwatersrand,ZA
+300,ue.edu.pk,Pakistan,http://www.ue.edu.pk/,University of Education,PK
+301,uew.edu.gh,Ghana,http://www.uew.edu.gh/,"University of Education, Winneba",GH
+302,vsp.cz,Czech Republic,http://www.vsp.cz/,University of Education Hradec Kralove,CZ
+303,ed.ac.uk,United Kingdom,http://www.ed.ac.uk/,University of Edinburgh,GB
+304,uoeld.ac.ke,Kenya,http://www.uoeld.ac.ke/,University of Eldoret,KE
+305,uniel.edu.al,Albania,http://www.uniel.edu.al/,"University of Elbasan ""Aleksander Xhuvani""",AL
+306,elmahdi.edu.sd,Sudan,http://www.elmahdi.edu.sd/,University of El Imam El Mahdi University,SD
+307,uec.ac.jp,Japan,http://www.uec.ac.jp/,University of Electro-Communications,JP
+308,uestc.edu.cn,China,http://www.uestc.edu.cn/,University of Electronic Science and Technology of China,CN
+309,ue-varna.bg,Bulgaria,http://www.ue-varna.bg/,University of Economics Varna,BG
+310,vse.cz,Czech Republic,http://www.vse.cz/,University of Economics Prague,CZ
+311,euba.sk,Slovakia,http://www.euba.sk/,University of Economics in Bratislava,SK
+312,uoe.edu.pk,Pakistan,http://www.uoe.edu.pk/,University of East,PK
+313,uep.educ.ph,Philippines,http://www.uep.educ.ph/,University of Eastern Philippines,PH
+314,ueab.ac.ke,Kenya,http://www.ueab.ac.ke/,"University of Eastern Africa, Baraton",KE
+315,uel.ac.uk,United Kingdom,http://www.uel.ac.uk/,University of East London,GB
+316,unssa.rs.ba,Bosnia and Herzegovina,http://www.unssa.rs.ba/,University of East Srarajevo,BA
+317,toua-u.ac.jp,Japan,http://www.toua-u.ac.jp/,University of East Asia,JP
+318,uea.ac.uk,United Kingdom,http://www.uea.ac.uk/,University of East Anglia,GB
+319,ex.ac.uk,United Kingdom,http://www.ex.ac.uk/,University of Exeter,GB
+320,evansville.edu,United States,http://www.evansville.edu/,University of Evansville,US
+321,essex.ac.uk,United Kingdom,http://www.essex.ac.uk/,University of Essex,GB
+322,uet.edu,Pakistan,http://www.uet.edu/,University of Engineering and Technology Lahore,PK
+323,nwfpuet.edu.pk,Pakistan,http://www.nwfpuet.edu.pk/,University of Engineering and Technology Peshawar,PK
+324,uettaxila.edu.pk,Pakistan,http://www.uettaxila.edu.pk/,University of Engineering and Technology Taxila,PK
+325,ruh.ac.lk,Sri Lanka,http://www.ruh.ac.lk/,University of Ruhuna,LK
+326,uri.edu,United States,http://www.uri.edu/,University of Rhode Island,US
+327,ru.ac.bd,Bangladesh,http://www.ru.ac.bd/,University of Rajshahi,BD
+328,uniraj.org,India,http://www.uniraj.org/,University of Rajasthan,IN
+329,uor.org,India,http://www.uor.org/,University of Roorkee,IN
+330,ru.acad.bg,Bulgaria,http://www.ru.acad.bg/,University of Rousse,BG
+331,rochester.edu,United States,http://www.rochester.edu/,University of Rochester,US
+332,uniroma1.it,Italy,http://www.uniroma1.it/,"University of Roma ""La Sapienza""",IT
+333,uniroma2.eu,Italy,http://www.uniroma2.it/,"University of Roma ""Tor Vergata""",IT
+334,unirc.it,Italy,http://www.unirc.it/,University of Reggio Calabria,IT
+335,uregina.ca,Canada,http://www.uregina.ca/,University of Regina,CA
+336,urc.edu.ph,Philippines,http://www.urc.edu.ph/,University of Regina Carmeli,PH
+337,uor.edu,United States,http://www.uor.edu/,University of Redlands,US
+338,uem.ro,Romania,http://www.uem.ro/,University of Resita,RO
+339,rdg.ac.uk,United Kingdom,http://www.rdg.ac.uk/,University of Reading,GB
+340,uniri.hr,Croatia,http://www.uniri.hr/,University of Rijeka,HR
+341,urich.edu,United States,http://www.urich.edu/,University of Richmond,US
+342,unizh.ch,Switzerland,http://www.unizh.ch/,University of Zürich,CH
+343,unze.ba,Bosnia and Herzegovina,http://www.unze.ba/,University of Zenica,BA
+344,uzulu.ac.za,South Africa,http://www.uzulu.ac.za/,University of Zululand,ZA
+345,uzh.ch,Switzerland,http://www.uzh.ch/,University of Zurich,CH
+346,uniza.sk,Slovakia,http://www.uniza.sk/,University of Zilinska,SK
+347,uz.ac.zw,Zimbabwe,http://www.uz.ac.zw/,University of Zimbabwe,ZW
+348,unizg.hr,Croatia,http://www.unizg.hr/,University of Zagreb,HR
+349,unizd.hr,Croatia,http://www.unizd.hr/,University of Zadar,HR
+350,unza.zm,Zambia,http://www.unza.zm/,University of Zambia,ZM
+351,uidaho.edu,United States,http://www.uidaho.edu/,University of Idaho,US
+352,ui.edu.ng,Nigeria,http://www.ui.edu.ng/,University of Ibadan,NG
+353,unilorin.edu.ng,Nigeria,http://www.unilorin.edu.ng/,University of Ilorin,NG
+354,uiuc.edu,United States,http://www.illinois.edu/,University of Illinois at Urbana-Champaign,US
+355,uis.edu,United States,http://www.uis.edu/,University of Illinois at Springfield,US
+356,uic.edu,United States,http://www.uic.edu/,University of Illinois at Chicago,US
+357,hi.is,Iceland,http://www.hi.is/,University of Iceland,IS
+358,uaic.ro,Romania,http://www.uaic.ro/,University of Iasi,RO
+359,uiowa.edu,United States,http://www.uiowa.edu/,University of Iowa,US
+360,uoi.gr,Greece,http://www.uoi.gr/,University of Ioannina,GR
+361,uindy.edu,United States,http://www.uindy.edu/,University of Indianapolis,US
+362,uindy.edu.gr,Greece,http://www.uindy.edu.gr/,University of Indianapolis in Athens,GR
+363,uits.edu.bd,Bangladesh,http://www.uits.edu.bd/,University of Information Technology & Sciences,BD
+364,wsiz.rzeszow.pl,Poland,http://www.wsiz.rzeszow.pl/,University of Information Technology and Management in Rzeszow,PL
+365,uninsubria.it,Italy,http://www.uninsubria.it/,University of Insubria,IT
+366,wsub.waw.pl,Poland,http://www.wsub.waw.pl/,University of Insurance and Banking in Warsaw,PL
+367,uib.kz,Kazakhstan,http://www.uib.kz/,University of International Business,KZ
+368,uibe.edu.cn,China,http://www.uibe.edu.cn/,University of International Business and Economics,CN
+369,unistrapg.it,Italy,http://www.unistrapg.it/,University of Italian Studies for Foreigners of Perugia,IT
+370,unistrasi.it,Italy,http://www.unistrasi.it/,University of Italian Studies for Foreigners of Siena,IT
+371,univaq.it,Italy,http://www.univaq.it/,University of Aquila,IT
+372,adelaide.edu.au,Australia,http://www.adelaide.edu.au/,University of Adelaide,AU
+373,adenuniversity.edu.ye,Yemen,http://www.adenuniversity.edu.ye/,University of Aden,YE
+374,uat.edu,United States,http://www.uat.edu/,University of Advancing Technology,US
+375,unat.ens.tn,Tunisia,http://www.unat.ens.tn/,University of Aviation and Technology,TN
+376,uap-bd.edu,Bangladesh,http://www.uap-bd.edu/,"University of Asia Pacific, Dhanmondi",BD
+377,uap.edu.ph,Philippines,http://www.uap.edu.ph/,University of Asia and the Pacific,PH
+378,uoa.gr,Greece,http://www.uoa.gr/,University of Athens,GR
+379,unak.is,Iceland,http://www.unak.is/,University of Akureyri,IS
+380,uakron.edu,United States,http://www.uakron.edu/,University of Akron,US
+381,wayne.uakron.edu,United States,http://www.wayne.uakron.edu,University of Akron Wayne College,US
+382,uaf.edu.pk,Pakistan,http://www.uaf.edu.pk/,University of Agriculture Faisalabad,PK
+383,uam.edu.ng,Nigeria,http://www.uam.edu.ng/,University of Agriculture Makurdi,NG
+384,unaab.edu.ng,Nigeria,http://www.unaab.edu.ng/,University of Agriculture Abeokuta,NG
+385,usab-tm.ro,Romania,http://www.usab-tm.ro/,University of Agriculture and Veterinary Medicine Timisoara,RO
+386,usamvcluj.ro,Romania,http://www.usamvcluj.ro/,University of Agriculture and Veterinary Medicine Cluj-Napoca,RO
+387,usab.ro,Romania,http://www.usab.ro/,University of Agriculture and Veterinary Medicine Bucharest,RO
+388,univagro-iasi.ro,Romania,http://www.univagro-iasi.ro/,University of Agriculture and Veterinary Medicine Iasi,RO
+389,uasd.net,India,http://www.uasd.net/,"University of Agricultural Sciences, Dharwad",IN
+390,uasbng.kar.nic.in,India,http://uasbng.kar.nic.in/,"University of Agricultural Sciences, Bangalore",IN
+391,auckland.ac.nz,New Zealand,http://www.auckland.ac.nz/,University of Auckland,NZ
+392,uab.edu,United States,http://www.uab.edu/,University of Alabama at Birmingham,US
+393,uah.edu,United States,http://www.uah.edu/,University of Alabama at Huntsville,US
+394,ua.edu,United States,http://www.ua.edu/,University of Alabama at Tuscaloosa,US
+395,alaska.edu,United States,http://www.alaska.edu/,University of Alaska,US
+396,uaf.edu,United States,http://www.uaf.edu,University of Alaska - Fairbanks,US
+397,uas.alaska.edu,United States,http://www.uas.alaska.edu/,University of Alaska - Southeast,US
+398,uaa.alaska.edu,United States,http://www.uaa.alaska.edu/,University of Alaska - Anchorage,US
+399,tnuni.sk,Slovakia,http://www.tnuni.sk/,University of Alexandra Dubček in Trenčín,SK
+400,alepuniv.edu.sy,Syrian Arab Republic,http://www.alepuniv.edu.sy/,University of Aleppo,SY
+401,ualberta.ca,Canada,http://www.ualberta.ca/,University of Alberta,CA
+402,qadissuni.edu.iq,Iraq,http://www.qadissuni.edu.iq/,University of Al-Qadisiyah,IQ
+403,abdn.ac.uk,United Kingdom,http://www.abdn.ac.uk/,University of Aberdeen,GB
+404,abertay.ac.uk,United Kingdom,http://www.abertay.ac.uk/,University of Abertay Dundee,GB
+405,unibuja.edu.ng,Nigeria,http://www.unibuja.edu.ng/,University of Abuja,NG
+406,uast.ac.ir,Iran,http://www.uast.ac.ir/,University of Applied Science and Technology,IR
+407,tktk.ee,Estonia,http://www.tktk.ee/,University of Applied Sciences,EE
+408,usam.md,"Moldova, Republic of",http://www.usam.md/,University of Applied Sciences of Moldova,MD
+409,fhbb.ch,Switzerland,http://www.fhbb.ch/,University of Applied Sciences Basel (FHBB ),CH
+410,fhso.ch,Switzerland,http://www.fhso.ch/,University of Applied Sciences Solothurn Northwestern Switzerland,CH
+411,fh-htachur.ch,Switzerland,http://www.fh-htachur.ch/,University of Applied Sciences Chur,CH
+412,fh-aargau.ch,Switzerland,http://www.fh-aargau.ch/,University of Applied Sciences Aargau,CH
+413,uva.nl,Netherlands,http://www.uva.nl/,University of Amsterdam,NL
+414,uafs.edu,United States,http://www.uafs.edu/,University of Arkansas - Fort Smith,US
+415,uark.edu,United States,http://www.uark.edu/,University of Arkansas - Fayetteville,US
+416,ualr.edu,United States,http://www.ualr.edu/,University of Arkansas - Little Rock,US
+417,uamont.edu,United States,http://www.uamont.edu/,University of Arkansas - Monticello,US
+418,uasys.edu,United States,https://www.uasys.edu/,University of Arkansas System eVersity,US
+419,uaccb.edu,United States,http://www.uaccb.edu,University of Arkansas Community College-​Batesville,US
+420,uacch.edu,United States,http://www.uacch.edu,University of Arkansas Community College-​Hope,US
+421,uaccm.edu,United States,http://www.uaccm.edu,University of Arkansas Community College-​Morrilton,US
+422,uams.edu,United States,http://www.uams.edu/,University of Arkansas for Medical Sciences,US
+423,arizona.edu,United States,http://www.arizona.edu/,University of Arizona,US
+424,uacg.bg,Bulgaria,http://www.uacg.bg/,"University of Architecture, Civil Engineering and Geodesy",BG
+425,uiah.fi,Finland,http://www.uiah.fi/,University of Art and Design Helsinki,FI
+426,uartdcluj.ro,Romania,http://www.uartdcluj.ro/,University of Art and Design Cluj-Napoca,RO
+427,uda.ad,Andorra,http://www.uda.ad/,University of Andorra,AD
+428,uoanbar.edu.iq,Iraq,http://www.uoanbar.edu.iq/,University of Anbar,IQ
+429,unian.it,Italy,http://www.unian.it/,University of Ancona,IT
+430,u-aizu.ac.jp,Japan,http://www.u-aizu.ac.jp/,University of Aizu,JP
+431,ou.edu,United States,http://www.ou.edu/,University of Oklahoma,US
+432,oulu.fi,Finland,http://www.oulu.fi/,University of Oulu,FI
+433,uoeh-u.ac.jp,Japan,http://www.uoeh-u.ac.jp/,"University of Occupational and Environmental Health, Japan",JP
+434,uni.opole.pl,Poland,http://www.uni.opole.pl/,University of Opole,PL
+435,uoregon.edu,United States,http://www.uoregon.edu/,University of Oregon,US
+436,uoradea.ro,Romania,http://www.uoradea.ro/,University of Oradea,RO
+437,ox.ac.uk,United Kingdom,http://www.ox.ac.uk/,University of Oxford,GB
+438,unios.hr,Croatia,http://www.unios.hr/,University of Osijek,HR
+439,uio.no,Norway,http://www.uio.no/,University of Oslo,NO
+440,osu.cz,Czech Republic,http://www.osu.cz/,University of Ostrava,CZ
+441,uoit.ca,Canada,http://www.uoit.ca/,University of Ontario Institute of Technology,CA
+442,otago.ac.nz,New Zealand,http://www.otago.ac.nz/,University of Otago,NZ
+443,uottawa.ca,Canada,http://www.uottawa.ca/,University of Ottawa,CA
+444,sydney.edu.au,Australia,http://sydney.edu.au/,University of Sydney,AU
+445,scranton.edu,United States,http://www.scranton.edu/,University of Scranton,US
+446,usat.ms,Montserrat,http://www.usat.ms/,"University of Science, Arts and Technology",MS
+447,usao.edu,United States,http://usao.edu/,University of Science & Arts of Oklahoma,US
+448,ustb.edu.pk,Pakistan,http://www.ustb.edu.pk/,University of Science & Technology Bannu,PK
+449,ustc.ac.bd,Bangladesh,http://www.ustc.ac.bd/,University of Science & Technology Chittagong,BD
+450,usc.ac.ir,Iran,http://www.usc.ac.ir/,University of Science and Culture,IR
+451,ust.edu.sd,Sudan,http://www.ust.edu.sd/,University of Science and Technology,SD
+452,ustc.edu.cn,China,http://www.ustc.edu.cn/,University of Science and Technology of China,CN
+453,ustb.edu.cn,China,http://www.ustb.edu.cn/,University of Science and Technology Beijing,CN
+454,ust.edu,Yemen,http://www.ust.edu/,University of Science and Technology Sana'a,YE
+455,usask.ca,Canada,http://www.usask.ca/,University of Saskatchewan,CA
+456,uniss.it,Italy,http://www.uniss.it/,University of Sassari,IT
+457,unisa.it,Italy,http://www.unisa.it/,University of Salerno,IT
+458,salford.ac.uk,United Kingdom,http://www.salford.ac.uk/,University of Salford,GB
+459,uos.edu.pk,Pakistan,http://www.uos.edu.pk/,University of Sargodha,PK
+460,unsa.ba,Bosnia and Herzegovina,http://www.unsa.ba/,University of Sarajevo,BA
+461,sandiego.edu,United States,http://www.sandiego.edu/,University of San Diego,US
+462,usjr.edu.ph,Philippines,http://www.usjr.edu.ph/,University of San Jose Recoletos,PH
+463,usc.edu.ph,Philippines,http://www.usc.edu.ph/,University of San Carlos,PH
+464,usa.edu.ph,Philippines,http://www.usa.edu.ph/,University of San Agustin,PH
+465,usfca.edu,United States,http://www.usfca.edu/,University of San Francisco,US
+466,unirsm.sm,San Marino,http://www.unirsm.sm/,University of San Marino,SM
+467,unisannio.it,Italy,http://www.unisannio.it/,University of Sannio,IT
+468,ust.edu.ph,Philippines,http://www.ust.edu.ph/,University of Santo Tomas,PH
+469,usj.edu.mo,Macao,http://www.usj.edu.mo/,University of Saint Joseph,MO
+470,usls.edu,Philippines,http://www.usls.edu/,University of Saint La Salle,PH
+471,stthomas.edu,United States,http://www.stthomas.edu/,University of Saint Thomas (MN),US
+472,stthom.edu,United States,http://www.stthom.edu/,University of Saint Thomas (TX),US
+473,usl.edu,United States,http://www.usl.edu/,University of Southwestern Louisiana,US
+474,usq.edu.au,Australia,http://www.usq.edu.au/,University of Southern Queensland,AU
+475,sdu.dk,Denmark,http://www.sdu.dk/,University of Southern Denmark - SDU,DK
+476,usc.edu,United States,http://www.usc.edu/,University of Southern California,US
+477,riviera.fr,Monaco,http://www.riviera.fr/usehome.htm,University of Southern Europe (Monaco Business School),MC
+478,usm.maine.edu,United States,http://www.usm.maine.edu/,University of Southern Maine,US
+479,usm.edu,United States,http://www.usm.edu/,University of Southern Mississippi,US
+480,usm.edu.ph,Philippines,http://www.usm.edu.ph/,University of Southern Mindanao,PH
+481,usp.ph,Philippines,http://www.usp.ph/,University of Southern Philippines Foundation,PH
+482,usi.edu,United States,http://www.usi.edu/,University of Southern Indiana,US
+483,usep.edu.ph,Philippines,http://www.usep.edu.ph/,University of Southeastern Philippines,PH
+484,usd.edu,United States,http://www.usd.edu/,University of South Dakota,US
+485,usf.edu,United States,http://www.usf.edu/,University of South Florida,US
+486,sc.edu,United States,http://www.sc.edu/,University of South Carolina,US
+487,usca.edu,United States,http://www.usca.edu/,University of South Carolina - Aiken,US
+488,jcu.cz,Czech Republic,http://www.jcu.cz/,University of South Bohemia,CZ
+489,unisa.ac.za,South Africa,http://www.unisa.ac.za/,University of South Africa,ZA
+490,southalabama.edu,United States,http://www.southalabama.edu/,University of South Alabama,US
+491,usa.edu.pk,Pakistan,http://www.usa.edu.pk/,University of South Asia,PK
+492,unisa.edu.au,Australia,http://www.unisa.edu.au/,University of South Australia,AU
+493,soton.ac.uk,United Kingdom,http://www.southampton.ac.uk/,University of Southampton,GB
+494,efe.hu,Hungary,http://www.efe.hu/,University of Sopron,HU
+495,uswr.ac.ir,Iran,http://www.uswr.ac.ir/,University of Social Welfare and Rehabilitation Scinences,IR
+496,universityofsomalia.net,Somalia,http://www.universityofsomalia.net/,University of Somalia,SO
+497,ucm.sk,Slovakia,http://www.ucm.sk/,University of SS. Cyril and Methodius in Trnava,SK
+498,sun.ac.za,South Africa,http://www.sun.ac.za/,University of Stellenbosch,ZA
+499,uis.no,Norway,http://www.uis.no/,University of Stavanger,NO
+500,st-andrews.ac.uk,United Kingdom,https://www.st-andrews.ac.uk/,University of St. Andrews,GB
+501,usjc.uwaterloo.ca,Canada,http://www.usjc.uwaterloo.ca/,University of St. Jerome's College,CA
+502,utoronto.ca,Canada,http://www.utoronto.ca/stmikes/,University of St. Michael's College,CA
+503,strath.ac.uk,United Kingdom,http://www.strath.ac.uk/,University of Strathclyde,GB
+504,stir.ac.uk,United Kingdom,http://www.stir.ac.uk/,University of Stirling,GB
+505,usudbury.com,Canada,http://www.usudbury.com/,University of Sudbury,CA
+506,univsul.org,Iraq,http://www.univsul.org/,University of Sulaimania (Kurdistan Region),IQ
+507,usv.ro,Romania,http://www.usv.ro/,University of Suceava,RO
+508,sussex.ac.uk,United Kingdom,http://www.sussex.ac.uk/,University of Sussex,GB
+509,sunderland.ac.uk,United Kingdom,http://www.sunderland.ac.uk/,University of Sunderland,GB
+510,surrey.ac.uk,United Kingdom,http://www.surrey.ac.uk/,University of Surrey,GB
+511,unishk.edu.al,Albania,http://www.unishk.edu.al/,"University of Shkodra ""Luigj Gurakuqi""",AL
+512,shef.ac.uk,United Kingdom,http://www.shef.ac.uk/,University of Sheffield,GB
+513,sharjah.ac.ae,United Arab Emirates,http://www.sharjah.ac.ae/,University of Sharjah,AE
+514,usp.ac.jp,Japan,http://www.usp.ac.jp/,University of Shiga Prefecture,JP
+515,unist.hr,Croatia,http://www.unist.hr/,University of Split,HR
+516,swissu.org,Switzerland,http://www.swissu.org/,University of Switzerland,CH
+517,uniswa.sz,Swaziland,http://www.uniswa.sz/,University of Swaziland,SZ
+518,unisey.ac.sc,Seychelles,http://www.unisey.ac.sc/,University of Seychelles,SC
+519,usaim.edu,Seychelles,http://www.usaim.edu/,University of Seychelles - American Institute of Medicine,SC
+520,sjp.ac.lk,Sri Lanka,http://www.sjp.ac.lk/,University of Sri Jayawardenapura,LK
+521,u-szeged.hu,Hungary,http://www.u-szeged.hu/,University of Szeged,HU
+522,univ.szczecin.pl,Poland,http://www.univ.szczecin.pl/,University of Szczecin,PL
+523,usouixfalls.edu,United States,http://www.usouixfalls.edu/,University of Sioux Falls,US
+524,tusol.org,Sierra Leone,http://www.tusol.org/,University of Sierra Leone,SL
+525,unisi.it,Italy,http://www.unisi.it/,University of Siena,IT
+526,sibiu.ro,Romania,http://www.sibiu.ro/,University of Sibiu,RO
+527,us.edu.pl,Poland,http://www.us.edu.pl/,University of Silesia,PL
+528,unisilvaner.info,Saint Kitts and Nevis,http://www.unisilvaner.info/,University of Silvaner,KN
+529,usindh.edu.pk,Pakistan,http://www.usindh.edu.pk/,University of Sindh,PK
+530,eustatiusmed.edu,Netherlands,http://www.eustatiusmed.edu/,University of Sint Eustatius School of Medicine,NL
+531,utulsa.edu,United States,http://utulsa.edu/,University of Tulsa,US
+532,utu.fi,Finland,http://www.utu.fi/,University of Turku,FI
+533,unito.it,Italy,http://www.unito.it/,University of Turin,IT
+534,untz.ba,Bosnia and Herzegovina,http://www.untz.ba/,University of Tuzla,BA
+535,udc.edu,United States,http://www.udc.edu/,University of the District of Columbia,US
+536,uvi.edu,"Virgin Islands, British",http://www.uvi.edu/,University of the Virgin Islands,VG
+537,vpa.ac.lk,Sri Lanka,http://www.vpa.ac.lk/,University of the Visual & Performing Arts,LK
+538,uv.edu.ph,Philippines,http://www.uv.edu.ph/,University of the Visayas,PH
+539,uc-bcf.edu.ph,Philippines,http://www.uc-bcf.edu.ph/,University of the Cordilleras,PH
+540,plm.edu.ph,Philippines,http://www.plm.edu.ph/,University of the City of Manila,PH
+541,ua.edu.ph,Philippines,http://www.ua.edu.ph/,University of the Assumption,PH
+542,u-air.ac.jp,Japan,http://www.u-air.ac.jp/,University of the Air,JP
+543,ozarks.edu,United States,http://www.ozarks.edu/,University of the Ozarks,US
+544,utcc.ac.th,Thailand,http://www.utcc.ac.th/,University of the Thai Chamber of Commerce,TH
+545,usc.edu.tt,Trinidad and Tobago,http://www.usc.edu.tt/,University of the Southern Caribbean,TT
+546,usp.ac.fj,Solomon Islands,http://www.usp.ac.fj/,University of the South Pacific,SB
+547,usp.ac.fj,Samoa,http://www.usp.ac.fj/wwwsoa/,University of the South Pacific School of Agriculture,WS
+548,usp.ac.fj,Tonga,http://www.usp.ac.fj/,University of the South Pacific Centre,TO
+549,usc.edu.au,Australia,http://www.usc.edu.au/,University of the Sunshine Coast,AU
+550,u-sacred-heart.ac.jp,Japan,http://www.u-sacred-heart.ac.jp/,University of the Sacred Heart Tokyo,JP
+551,uopeople.edu,United States,http://www.uopeople.edu/,University of the People,US
+552,pu.edu.pk,Pakistan,http://www.pu.edu.pk/,University of the Punjab,PK
+553,pugc.edu.pk,Pakistan,http://www.pugc.edu.pk/,"University of the Punjab, Gujranwala Campus",PK
+554,upd.edu.ph,Philippines,http://www.upd.edu.ph/,University of the Philippines Diliman,PH
+555,upb.edu.ph,Philippines,http://www.upb.edu.ph/,University of the Philippines Baguio,PH
+556,uplb.edu.ph,Philippines,http://www.uplb.edu.ph/,University of the Philippines Los Banos,PH
+557,upv.edu.ph,Philippines,http://www.upv.edu.ph/,University of the Philippines Visayas,PH
+558,uphighschoolcebu.edu.ph,Philippines,http://www.uphighschoolcebu.edu.ph/,University of the Philippines Visayas - Cebu High School,PH
+559,upou.org,Philippines,http://www.upou.org/,University of the Philippines Open University,PH
+560,upm.edu.ph,Philippines,http://www.upm.edu.ph/,University of the Philippines Manila,PH
+561,upmin.edu.ph,Philippines,http://www.upmin.edu.ph/,University of the Philippines Mindanao,PH
+562,uop.edu,United States,http://www.uop.edu/,University of the Pacific,US
+563,utg.edu.gm,Gambia,http://www.utg.edu.gm/,University of the Gambia,GM
+564,humanities.mn,Mongolia,http://www.humanities.mn/,University of the Humanities,MN
+565,uwc.ac.za,South Africa,http://www.uwc.ac.za/,University of the Western Cape,ZA
+566,uwe.ac.uk,United Kingdom,http://www.uwe.ac.uk/,"University of the West of England, Bristol",GB
+567,uwichill.edu.bb,Barbados,http://www.uwichill.edu.bb/,"University of the West Indies, Cave Hill",BB
+568,uwimona.edu.jm,Jamaica,http://www.uwimona.edu.jm/,"University of the West Indies, Mona",JM
+569,uwi.tt,Trinidad and Tobago,http://www.uwi.tt/,University of the West Indies St. Augustine,TT
+570,uerm.edu.ph,Philippines,http://www.uerm.edu.ph/,"University of the East, Ramon Magsaysay Memorial Medical Center",PH
+571,ue.edu.ph,Philippines,http://www.ue.edu.ph/caloocan/,"University of the East, Coloocan",PH
+572,ue.edu.ph,Philippines,http://www.ue.edu.ph/manila/,"University of the East, Manila",PH
+573,uovs.ac.za,South Africa,http://www.uovs.ac.za/,University of the Free State,ZA
+574,setur.fo,Faroe Islands,http://www.setur.fo/,University of the Faroe Islands,FO
+575,u-ryukyu.ac.jp,Japan,http://www.u-ryukyu.ac.jp/,University of the Ryukyus,JP
+576,una.an,Netherlands,http://www.una.an/,"University of the Netherlands Antilles, Curacao",NL
+577,uiw.edu,United States,http://www.uiw.edu/,University of the Incarnate Word,US
+578,uic.globe.com.ph,Philippines,http://uic.globe.com.ph/,University of the Immaculate Conception,PH
+579,uth.gr,Greece,http://www.uth.gr/,University of Thessaly,GR
+580,utgjiu.ro,Romania,http://www.utgjiu.ro/,University of Targu Jiu,RO
+581,ut.ee,Estonia,http://www.ut.ee/,University of Tartu,EE
+582,ut.edu.sa,Saudi Arabia,http://www.ut.edu.sa/,University of Tabuk,SA
+583,utas.edu.au,Australia,http://www.utas.edu.au/,University of Tasmania,AU
+584,uta.fi,Finland,http://www.uta.fi/,University of Tampere,FI
+585,ut.edu,United States,http://www.ut.edu/,University of Tampa,US
+586,utoledo.edu,United States,http://www.utoledo.edu/,University of Toledo,US
+587,utoronto.ca,Canada,http://www.utoronto.ca/,University of Toronto,CA
+588,scar.utoronto.ca,Canada,http://www.scar.utoronto.ca/,"University of Toronto, Scarborough",CA
+589,utm.utoronto.ca,Canada,http://www.utm.utoronto.ca/,"University of Toronto, Mississauga",CA
+590,ut.ac.ir,Iran,http://www.ut.ac.ir/,University of Tehran,IR
+591,utm.ac.mu,Mauritius,http://www.utm.ac.mu/,University of Technology,MU
+592,utp.edu.pl,Poland,http://www.utp.edu.pl/,University of Technology and Life Sciences,PL
+593,uotechnology.edu.iq,Iraq,http://www.uotechnology.edu.iq/,University of Technology - Iraq,IQ
+594,utech.edu.jm,Jamaica,http://www.utech.edu.jm/,University of Technology Jamaica,JM
+595,utpp.edu.kh,Cambodia,http://www.utpp.edu.kh/,University of Technology Phnom Penh,KH
+596,uts.edu.au,Australia,http://www.uts.edu.au/,University of Technology Sydney,AU
+597,hcmute.edu.vn,Viet Nam,http://www.hcmute.edu.vn/,University of Technical Education Ho Chi Minh City,VN
+598,utd.edu,United States,http://www.utdallas.edu/,University of Texas at Dallas,US
+599,utb.edu,United States,http://www.utb.edu/,University of Texas at Brownsville,US
+600,utexas.edu,United States,http://www.utexas.edu/,University of Texas at Austin,US
+601,uta.edu,United States,http://www.uta.edu/,University of Texas at Arlington,US
+602,utep.edu,United States,http://www.utep.edu/,University of Texas at El Paso,US
+603,utsa.edu,United States,http://www.utsa.edu/,University of Texas at San Antonio,US
+604,uttyler.edu,United States,http://www.uttyler.edu/,University of Texas at Tyler,US
+605,swmed.edu,United States,http://www.swmed.edu/,University of Texas Southwestern Medical Center,US
+606,panam.edu,United States,http://www.panam.edu/,University of Texas - Pan American,US
+607,utmb.edu,United States,http://www.utmb.edu/,University of Texas Medical Branch,US
+608,utrgv.edu,United States,http://www.utrgv.edu/,University of Texas Rio Grande Valley,US
+609,utpb.edu,United States,http://www.utpb.edu/,University of Texas Permian Basin,US
+610,tees.ac.uk,United Kingdom,http://www.tees.ac.uk/,University of Teesside,GB
+611,unite.it,Italy,http://www.unite.it/,University of Teramo,IT
+612,utk.edu,United States,http://www.utk.edu/,"University of Tennessee, Knoxville",US
+613,utm.edu,United States,http://www.utm.edu/,"University of Tennessee, Martin",US
+614,utc.edu,United States,http://www.utc.edu/,University of Tennessee at Chattanooga,US
+615,utwente.nl,Netherlands,http://www.utwente.nl/,University of Twente,NL
+616,uit.no,Norway,http://www.uit.no/,University of Tromsø,NO
+617,unitn.it,Italy,http://www.unitn.it/,University of Trento,IT
+618,truni.sk,Slovakia,http://www.truni.sk/,University of Trnava,SK
+619,units.it,Italy,http://www.units.it/,University of Trieste,IT
+620,uot.edu.ly,Libya,http://www.uot.edu.ly/,University of Tripoli,LY
+621,utt.edu.tt,Trinidad and Tobago,http://www.utt.edu.tt/,University of Trinidad and Tobago,TT
+622,trinity.utoronto.ca,Canada,http://www.trinity.utoronto.ca/,University of Trinity College,CA
+623,unitir.edu.al,Albania,http://www.unitir.edu.al/,University of Tirana,AL
+624,glos.ac.uk,United Kingdom,http://www.glos.ac.uk/,University of Gloucestershire,GB
+625,gla.ac.uk,United Kingdom,http://www.gla.ac.uk/,University of Glasgow,GB
+626,glam.ac.uk,United Kingdom,http://www.glam.ac.uk/,University of Glamorgan,GB
+627,univ.gda.pl,Poland,http://www.univ.gda.pl/,University of Gdansk,PL
+628,uog.edu.gy,Guyana,http://www.uog.edu.gy/,University of Guyana,GY
+629,uog.edu.pk,Pakistan,http://www.uog.edu.pk/,University of Gujrat,PK
+630,uoguelph.ca,Canada,http://www.uoguelph.ca/,University of Guelph,CA
+631,uog.edu,Guam,http://www.uog.edu/,University of Guam,GU
+632,uogj.edu.al,Albania,http://www.uogj.edu.al/,"University of Gjirokstra ""Eqerem Cabej""",AL
+633,gaduniv.edu.sd,Sudan,http://www.gaduniv.edu.sd/,University of Gadarif,SD
+634,ugal.ro,Romania,http://www.ugal.ro/,University of Galatzi,RO
+635,unisg.it,Italy,http://www.unisg.it/,University of Gastronomic Sciences,IT
+636,uog.ac.pg,Papua New Guinea,http://www.uog.ac.pg/,University of Goroka,PG
+637,uga.edu,United States,http://www.uga.edu/,University of Georgia,US
+638,uofg.edu.sd,Sudan,http://www.uofg.edu.sd/,University of Gezira,SD
+639,unige.it,Italy,http://www.unige.it/,University of Genoa,IT
+640,unige.ch,Switzerland,http://www.unige.ch/,University of Geneva,CH
+641,rug.nl,Netherlands,http://www.rug.nl/,University of Groningen,NL
+642,gre.ac.uk,United Kingdom,http://www.gre.ac.uk/,University of Greenwich,GB
+643,ilisimatusarfik.gl,Greenland,http://www.ilisimatusarfik.gl/,University of Greenland,GL
+644,ugf.edu,United States,http://www.ugf.edu/,University of Great Falls,US
+645,gruni.edu.ge,Georgia,http://www.gruni.edu.ge/,University of Grigol Robakidze,GE
+646,ug.edu.gh,Ghana,http://www.ug.edu.gh/,University of Ghana,GH
+647,uniud.it,Italy,http://www.uniud.it/,University of Udine,IT
+648,uniuyo.edu.ng,Nigeria,http://www.uniuyo.edu.ng/,University of Uyo,NG
+649,ulst.ac.uk,United Kingdom,http://www.ulst.ac.uk/,University of Ulster,GB
+650,uniurb.it,Italy,http://www.uniurb.it/,University of Urbino,IT
+651,utah.edu,United States,http://www.utah.edu/,University of Utah,US
+652,uh.edu,United States,http://www.uh.edu/,University of Houston,US
+653,uhd.edu,United States,http://www.uhd.edu/,University of Houston-Downtown,US
+654,quran-unv.edu.sd,Sudan,http://www.quran-unv.edu.sd/,University of Holy Quran and Islamic Siences,SD
+655,kee.hu,Hungary,http://www.kee.hu/,University of Horticulture and Food Industry,HU
+656,hormozgan.ac.ir,Iran,http://www.hormozgan.ac.ir/,University of Hormozgan,IR
+657,hku.hk,Hong Kong,http://www.hku.hk/,University of Hong Kong,HK
+658,helsinki.fi,Finland,http://www.helsinki.fi/,University of Helsinki,FI
+659,herts.ac.uk,United Kingdom,http://www.herts.ac.uk/,University of Hertfordshire,GB
+660,59.163.116.210,India,http://59.163.116.210/,University of Health Sciences Andhra Pradesh,IN
+661,uhsa.ag,Antigua and Barbuda,http://www.uhsa.ag/,University of Health Sciences Antigua,AG
+662,univ-sante.edu.kh,Cambodia,http://www.univ-sante.edu.kh/,University of Health and Science,KH
+663,hud.ac.uk,United Kingdom,http://www.hud.ac.uk/,University of Huddersfield,GB
+664,hull.ac.uk,United Kingdom,http://www.hull.ac.uk/,University of Hull,GB
+665,uhd.edu.iq,Iraq,http://www.uhd.edu.iq/,University of Human Development (Kurdistan Region),IQ
+666,uohyd.ernet.in,India,http://www.uohyd.ernet.in/,University of Hyderabad,IN
+667,uheeyc.edu.cn,China,http://www.uheeyc.edu.cn/,University of Hydraulic Electric Engineering,CN
+668,hawaii.edu,United States,http://www.hawaii.edu/,University of Hawaii System,US
+669,hilo.hawaii.edu,United States,http://hilo.hawaii.edu/,University of Hawaii at Hilo,US
+670,manoa.hawaii.edu,United States,http://manoa.hawaii.edu/,University of Hawaii at Manoa,US
+671,halifaxuni.ac,United Kingdom,http://www.halifaxuni.ac/,"University of Halifax, Birmingham Campus",GB
+672,hargeisauniversity.net,Somalia,http://www.hargeisauniversity.net/,University of Hargeisa,SO
+673,hartford.edu,United States,http://www.hartford.edu/,University of Hartford,US
+674,haifa.ac.il,Israel,http://www.haifa.ac.il/,University of Haifa,IL
+675,uoh.edu.sa,Saudi Arabia,http://www.uoh.edu.sa/,University of Hail,SA
+676,ui.phinma.edu.ph,Philippines,http://www.ui.phinma.edu.ph/,University of lloilo,PH
+677,uni.lu,Luxembourg,http://www.uni.lu/,University of Luxemburg,LU
+678,unilus.ac.zm,Zambia,http://www.unilus.ac.zm/,University of Lusaka,ZM
+679,lucknowuniv.org,India,http://www.lucknowuniv.org/,University of Lucknow,IN
+680,uni-lj.si,Slovenia,http://www.uni-lj.si/,University of Ljubljana,SI
+681,unilag.edu.ng,Nigeria,http://www.unilag.edu.ng/,University of Lagos,NG
+682,laverne.edu.gr,Greece,http://www.laverne.edu.gr/,University of LaVerne in Athens,GR
+683,lavasanpnu.ac.ir,Iran,http://www.lavasanpnu.ac.ir/,University of Lavasanat Pnu,IR
+684,uol.edu.pk,Pakistan,http://www.uol.edu.pk/,University of Lahore,PK
+685,ulaverne.edu,United States,http://www.ulaverne.edu/,University of La Verne,US
+686,ulapland.fi,Finland,http://www.ulapland.fi/,University of Lapland,FI
+687,lancs.ac.uk,United Kingdom,http://www.lancs.ac.uk/,University of Lancaster,GB
+688,lu.lv,Latvia,http://www.lu.lv/,University of Latvia,LV
+689,dswe.wroc.pl,Poland,http://www.dswe.wroc.pl/,University of Lower Silesia of the Association for the Advancement of Education in Wroclaw.,PL
+690,uni.lodz.pl,Poland,http://www.uni.lodz.pl/,University of Lodz,PL
+691,louisville.edu,United States,http://www.louisville.edu/,University of Louisville,US
+692,louisiana.edu,United States,http://www.louisiana.edu/,University of Louisiana at Lafeyette,US
+693,ulm.edu,United States,http://www.ulm.edu/,University of Louisiana at Monroe,US
+694,lon.ac.uk,United Kingdom,http://www.lon.ac.uk/,University of London,GB
+695,leeds.ac.uk,United Kingdom,http://www.leeds.ac.uk/,University of Leeds,GB
+696,le.ac.uk,United Kingdom,http://www.le.ac.uk/,University of Leicester,GB
+697,unile.it,Italy,http://www.unile.it/,University of Lecce,IT
+698,uleth.ca,Canada,http://www.uleth.ca/,University of Lethbridge,CA
+699,universityliberia.org,Liberia,http://www.universityliberia.org/,University of Liberia,LR
+700,ulab.edu.bd,Bangladesh,http://www.ulab.edu.bd/,University of Liberal Arts,BD
+701,liv.ac.uk,United Kingdom,http://www.liv.ac.uk/,University of Liverpool,GB
+702,ulivingstonia.com,Malawi,http://www.ulivingstonia.com/,University of Livingstonia,MW
+703,lincoln.ac.uk,United Kingdom,http://www.lincoln.ac.uk/,University of Lincoln,GB
+704,ul.ie,Ireland,http://www.ul.ie/,University of Limerick,IE
+705,ul.ac.za,South Africa,http://www.ul.ac.za/,University of Limpopo,ZA
+706,unifi.it,Italy,http://www.unifi.it/,University of Florence,IT
+707,ufl.edu,United States,http://www.ufl.edu/,University of Florida,US
+708,tuf.edu.pk,Pakistan,http://www.tuf.edu.pk/,University of Faisalabad,PK
+709,uft-plovdiv.bg,Bulgaria,http://www.uft-plovdiv.bg/,University of Food Technology,BG
+710,ltu.bg,Bulgaria,http://www.ltu.bg/,University of Forestry Sofia,BG
+711,ufh.ac.za,South Africa,http://www.ufh.ac.za/,University of Fort Hare,ZA
+712,unifg.it,Italy,http://www.unifg.it/,University of Foggia,IT
+713,unife.it,Italy,http://www.unife.it/,University of Ferrara,IT
+714,unifr.ch,Switzerland,http://www.unifr.ch/,University of Fribourg,CH
+715,unifiji.ac.fj,Fiji,http://www.unifiji.ac.fj/,University of Fiji,FJ
+716,arts.bg.ac.rs,Serbia,http://www.arts.bg.ac.rs/,University of Fine Arts Belgrade,RS
+717,findlay.edu,United States,https://www.findlay.edu/,University of Findlay,US
+718,wsfiz.edu.pl,Poland,http://www.wsfiz.edu.pl/,University of Finance and Management in Bialystok,PL
+719,up.edu,United States,http://www.up.edu/,University of Portland,US
+720,uniport.edu.ng,Nigeria,http://www.uniport.edu.ng/,University of Portharcourt,NG
+721,port.ac.uk,United Kingdom,http://www.port.ac.uk/,University of Portsmouth,GB
+722,phoenix.edu,United States,http://www.phoenix.edu/,University of Phoenix,US
+723,unipd.it,Italy,http://www.unipd.it/,University of Padua,IT
+724,unipa.it,Italy,http://www.unipa.it/,University of Palermo,IT
+725,up.edu.ps,"Palestine, State of",http://www.up.edu.ps/,University of Palestine,PS
+726,unipv.it,Italy,http://www.unipv.it/,University of Pavia,IT
+727,upatras.gr,Greece,http://www.upatras.gr/,University of Patras,GR
+728,paisley.ac.uk,United Kingdom,http://www.paisley.ac.uk/,University of Paisley,GB
+729,upng.ac.pg,Papua New Guinea,http://www.upng.ac.pg/,University of Papua New Guinea,PG
+730,upang.edu.ph,Philippines,http://www.upang.edu.ph/,University of Pangasinan,PH
+731,uni-pannon.hu,Hungary,http://www.uni-pannon.hu/,University of Pannonia,HU
+732,upce.cz,Czech Republic,http://www.upce.cz/,University of Pardubice,CZ
+733,unipr.it,Italy,http://www.unipr.it/,University of Parma,IT
+734,ups.edu,United States,http://www.ups.edu/,University of Puget Sound,US
+735,upr.edu,United States,http://www.upr.edu/,University of Puerto Rico,US
+736,unipu.hr,Croatia,http://www.unipu.hr/,University of Pula,HR
+737,unipune.ernet.in,India,http://www.unipune.ernet.in/,University of Pune,IN
+738,uni-plovdiv.bg,Bulgaria,http://www.uni-plovdiv.bg/,University of Plovdiv,BG
+739,plymouth.ac.uk,United Kingdom,http://www.plymouth.ac.uk/,University of Plymouth,GB
+740,uop.gr,Greece,http://www.uop.gr/,University of Peloponnese,GR
+741,pte.hu,Hungary,http://www.pte.hu/,University of Pecs,HU
+742,upesh.edu,Pakistan,http://www.upesh.edu/,University of Peshawar,PK
+743,unipg.it,Italy,http://www.unipg.it/,University of Perugia,IT
+744,uphr.edu.ph,Philippines,http://www.uphr.edu.ph/,University of Perpetual Help,PH
+745,perpetualdalta.edu.ph,Philippines,http://www.perpetualdalta.edu.ph/,"University of Perpetual Help, System Dalta",PH
+746,vsmu.sk,Slovakia,http://www.vsmu.sk/,University of Performing Arts in Bratislava,SK
+747,pdn.ac.lk,Sri Lanka,http://www.pdn.ac.lk/,University of Peradeniya,LK
+748,upenn.edu,United States,http://www.upenn.edu/,University of Pennsylvania,US
+749,hdpu.edu.cn,China,http://www.hdpu.edu.cn/,University of Petroleum (East China),CN
+750,upet.ro,Romania,http://www.upet.ro/,University of Petrosani,RO
+751,uop.edu.jo,Jordan,http://www.uop.edu.jo/,University of Petra,JO
+752,unipo.sk,Slovakia,http://www.unipo.sk/,University of Presov,SK
+753,up.ac.za,South Africa,http://www.up.ac.za/,University of Pretoria,ZA
+754,uni-pr.edu,Kosovo,http://www.uni-pr.edu/,University of Prishtina,XK
+755,pr.ac.rs,Serbia,http://www.pr.ac.rs/,University of Priština,RS
+756,uni-prizren.com,Kosovo,http://www.uni-prizren.com/,"University of Prizren ""Ukshin Hoti""",XK
+757,upei.ca,Canada,http://www.upei.ca/,University of Prince Edward Island,CA
+758,upr.si,Slovenia,http://www.upr.si/,University of Primorska,SI
+759,unipi.gr,Greece,http://www.unipi.gr/,University of Piraeus,GR
+760,unipi.it,Italy,http://www.unipi.it/,University of Pisa,IT
+761,upit.ro,Romania,http://www.upit.ro/,University of Pitesti,RO
+762,pitt.edu,United States,http://www.pitt.edu/,University of Pittsburgh,US
+763,upt.pitt.edu,United States,http://www.upt.pitt.edu,University of Pittsburgh-​Titusville,US
+764,upj.pitt.edu,United States,http://www.upj.pitt.edu/,University of Pittsburgh at Johnstown,US
+765,upmc.edu,United States,https://www.upmc.com/,University of Pittsburgh Medical Center,US
+766,uonbi.ac.ke,Kenya,http://www.uonbi.ac.ke/,University of Nairobi,KE
+767,unam.na,Namibia,http://www.unam.na/,University of Namibia,NA
+768,unina.it,Italy,http://www.unina.it/,University of Naples Federico II,IT
+769,unwe.acad.bg,Bulgaria,http://www.unwe.acad.bg/,University of National and World Economy,BG
+770,ung.si,Slovenia,http://www.ung.si/,University of Nova Gorica,SI
+771,uns.ac.rs,Serbia,http://www.uns.ac.rs/,University of Novi Sad,RS
+772,unw.edu.pk,Pakistan,http://www.unw.edu.pk/,University of NorthWest,PK
+773,unbc.ca,Canada,http://www.unbc.ca/,University of Northern British Columbia,CA
+774,unbeg.edu.sd,South Sudan,http://www.unbeg.edu.sd/,University of Northern Bahr El-Ghazal,SS
+775,unva.cz,Czech Republic,http://www.unva.cz/,"University of Northern Virginia, Prague Campus",CZ
+776,unp.edu.ph,Philippines,http://www.unp.edu.ph/,University of Northern Philippines,PH
+777,unco.edu,United States,http://www.unco.edu/,University of Northern Colorado,US
+778,uni.edu,United States,http://www.uni.edu/,University of Northern Iowa,US
+779,unep.edu.ph,Philippines,http://www.unep.edu.ph/,University of Northeastern Philippines,PH
+780,unn.ac.uk,United Kingdom,http://www.unn.ac.uk/,University of Northumbria at Newcastle,GB
+781,ung.edu,United States,http://www.ung.edu/,University of North Georgia,US
+782,und.edu,United States,http://und.edu/,University of North Dakota,US
+783,nbu.ac.in,India,http://www.nbu.ac.in/,University of North Bengal,IN
+784,unl.ac.uk,United Kingdom,http://www.unl.ac.uk/,University of North London,GB
+785,uncg.edu,United States,http://www.uncg.edu/,University of North Carolina at Greensboro,US
+786,uncw.edu,United States,http://uncw.edu/,University of North Carolina at Wilmington,US
+787,unc.edu,United States,http://www.unc.edu/,University of North Carolina at Chapel Hill,US
+788,uncc.edu,United States,http://www.uncc.edu/,University of North Carolina at Charlotte,US
+789,unca.edu,United States,http://www.unca.edu/,University of North Carolina at Asheville,US
+790,uniwest.ac.za,South Africa,http://www.uniwest.ac.za/,University of North West,ZA
+791,unf.edu,United States,http://www.unf.edu/,University of North Florida,US
+792,unt.edu,United States,http://www.unt.edu/,University of North Texas,US
+793,hsc.unt.edu,United States,http://www.hsc.unt.edu/,University of North Texas Health Science Center,US
+794,northampton.ac.uk,United Kingdom,http://www.northampton.ac.uk/,University of Northampton,GB
+795,nd.edu,United States,http://www.nd.edu/,University of Notre Dame,US
+796,nd.edu.au,Australia,http://www.nd.edu.au/,University of Notre Dame Australia,AU
+797,nottingham.ac.uk,United Kingdom,http://www.nottingham.ac.uk/,University of Nottingham,GB
+798,nottingham.edu.my,Malaysia,http://www.nottingham.edu.my/,"University of Nottingham, Malaysia Campus",MY
+799,unyt.edu.al,Albania,http://www.unyt.edu.al/,University of New York Tirana,AL
+800,unyp.cz,Czech Republic,http://www.unyp.cz/,University of New York in Prague,CZ
+801,unb.ca,Canada,http://www.unb.ca/,University of New Brunswick,CA
+802,unbsj.ca,Canada,http://www.unbsj.ca/,"University of New Brunswick, Saint John",CA
+803,newhaven.edu,United States,http://www.newhaven.edu/,University of New Haven,US
+804,unh.edu,United States,http://www.unh.edu/,"University of New Hampshire, Durham",US
+805,ufp.nc,New Caledonia,http://www.ufp.nc/,University of New Caledonia,NC
+806,uno.edu,United States,http://www.uno.edu/,University of New Orleans,US
+807,une.edu.au,Australia,http://www.une.edu.au/,University of New England,AU
+808,unsw.edu.au,Australia,http://www.unsw.edu.au/,University of New South Wales,AU
+809,unm.edu,United States,http://www.unm.edu/,University of New Mexico,US
+810,newcastle.edu.au,Australia,http://www.newcastle.edu.au/,University of Newcastle,AU
+811,ncl.ac.uk,United Kingdom,http://www.ncl.ac.uk/,University of Newcastle-upon-Tyne,GB
+812,unk.edu,United States,http://www.unk.edu/,"University of Nebraska, Kearney",US
+813,unomaha.edu,United States,http://www.unomaha.edu/,"University of Nebraska, Omaha",US
+814,unl.edu,United States,http://www.unl.edu/,"University of Nebraska, Lincoln",US
+815,unlv.edu,United States,http://www.unlv.edu/,"University of Nevada, Las Vegas",US
+816,unr.edu,United States,http://www.unr.edu/,"University of Nevada, Reno",US
+817,uno-r.edu.ph,Philippines,http://www.uno-r.edu.ph/,University of Negros Occidental-Recoletos,PH
+818,unc.edu.ph,Philippines,http://www.unc.edu.ph/,University of Nueva Caceres,PH
+819,unn.edu.ng,Nigeria,http://www.unn.edu.ng/,University of Nigeria,NG
+820,unizwa.edu.om,Oman,http://www.unizwa.edu.om/,University of Nizwa,OM
+821,ni.ac.rs,Serbia,http://www.ni.ac.rs/,University of Nis,RS
+822,unic.ac.cy,Cyprus,http://www.unic.ac.cy/,University of Nicosia,CY

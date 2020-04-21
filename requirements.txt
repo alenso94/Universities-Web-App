@@ -1,0 +1,6 @@
+pip
+Flask
+cassandra-driver
+requests
+json2html
+requests_cache
