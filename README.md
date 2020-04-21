@@ -275,7 +275,11 @@ NAME                                             DESIRED   CURRENT   READY   AGE
 replicaset.apps/cassandra-deployment-b7cffc85f   2         2         2       18h
 ```
 
-24. After deploying on Kubernetes cluster and implementing LoadBalancer, GET requests are given on the browser as 
+By default the kubernetes service allocates a port within range '30000-32767'.
+
+25. Finally view the web app in the browser using the public DNS of AWS EC2 account along with this Nodeport that starts with '30xxx'. Don't forget to give https:// in front of the URL. 
+
+26. After deploying on Kubernetes cluster and implementing LoadBalancer, GET requests are given on the browser as 
 	
 ```
 https://ec2-54-145-219-199.compute-1.amazonaws.com:30888
@@ -346,14 +350,14 @@ Date: Mon, 20 Apr 2020 19:45:16 GMT
 
 ### Cleanup
 
-1. Delete the Kubernetes deployment and LoadBalancer service using below commands:
+27. Delete the Kubernetes deployment and LoadBalancer service using below commands:
 
 ```
 sudo microk8s.kubectl delete deployment covidapp-deployment
 sudo microk8s.kubectl delete service covidapp-deployment
 ```
 
-2. Delete the Cassandra database instance by:
+28. Delete the Cassandra database instance by:
 
 ```
 sudo docker rm cassandra-test
